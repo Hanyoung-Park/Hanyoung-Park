@@ -2,22 +2,22 @@
 
 #### Education
 - B.S., 2020 ~ (ongoing), Double Major in Electrical Engineering & Computer Science, DGIST
-___
+---
 #### Experience
 - Research Intern, 2020, AIMS-E Lab, Energe Science & Engineering (ESE), DGIST
 - Undergraduate Researcher, 2020 ~ 2021, AIMS-E Lab, Energe Science & Engineering (ESE), DGIST
 - Undergraduate Researcher, 2021 ~, Image Processing Lab, Information & Communication Engineering (ICE), DGIST
-___
+---
 #### Research Interests
 - Image Processing Algorithms
 - ML based on Unsupervised Learning
 - Computational Photography
-___
+---
 #### Skills
 - Python
 - Javascript
 - C/C#/C++
-- Pytorch, Tensorflow
+- PyTorch, TensorFlow
 - MATLAB
 
 <!--
