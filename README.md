@@ -1,7 +1,7 @@
 ## 박한영 Hanyoung Park
 
 #### Education
-    B.S., 2020 ~ (ongoing), Double Major in Electrical Engineering & Computer Science, DGIST
+   B.S., 2020 ~ (ongoing), Double Major in Electrical Engineering & Computer Science, DGIST
 ------------------
 #### Experience
 ###### - Research Intern, 2020, AIMS-E Lab, Energe Science & Engineering (ESE), DGIST
