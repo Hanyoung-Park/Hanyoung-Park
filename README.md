@@ -10,7 +10,7 @@
 ---
 #### Research Interests
 - Image Processing Algorithms
-- ML based on Unsupervised Learning
+- Unsupervised Learning
 - Computational Photography
 ---
 #### Skills
