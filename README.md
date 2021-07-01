@@ -6,7 +6,7 @@ B.S., 2020 ~ (ongoing), Double Major in Electrical Engineering & Computer Scienc
 #### Experience
 ###### - Research Intern, 2020, AIMS-E Lab, Energe Science & Engineering (ESE), DGIST
 ###### - Undergraduate Researcher, 2020 ~ 2021, AIMS-E Lab, Energe Science & Engineering (ESE), DGIST
-###### - Undergraduate Researcher, 2021 ~, Image Processing Lab, Information & Communication Engeineering (ICE), DGIST
+###### - Undergraduate Researcher, 2021 ~, Image Processing Lab, Information & Communication Engineering (ICE), DGIST
 
 
 #### Research Interests
