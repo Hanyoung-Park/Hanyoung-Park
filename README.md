@@ -1,5 +1,5 @@
 ## 박한영 Hanyoung Park
-___
+
 #### Education
 - B.S., 2020 ~ (ongoing), Double Major in Electrical Engineering & Computer Science, DGIST
 ___
