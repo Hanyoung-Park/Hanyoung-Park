@@ -9,16 +9,16 @@ ___
 - Undergraduate Researcher, 2021 ~, Image Processing Lab, Information & Communication Engineering (ICE), DGIST
 ___
 #### Research Interests
-###### - Image Processing Algorithms
-###### - ML based on Unsupervised Learning
-###### - Computational Photography
+- Image Processing Algorithms
+- ML based on Unsupervised Learning
+- Computational Photography
 ___
 #### Skills
-###### - Python
-###### - Javascript
-###### - C/C#/C++
-###### - Pytorch, Tensorflow
-###### - MATLAB
+- Python
+- Javascript
+- C/C#/C++
+- Pytorch, Tensorflow
+- MATLAB
 
 <!--
 **Hanyoung-Park/Hanyoung-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
