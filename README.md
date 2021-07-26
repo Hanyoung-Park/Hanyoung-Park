@@ -15,10 +15,11 @@
 ---
 #### Skills
 - Python
-- Javascript
+- JavaScript
 - C/C#/C++
 - PyTorch, TensorFlow
 - MATLAB
+---
 
 <!--
 **Hanyoung-Park/Hanyoung-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
