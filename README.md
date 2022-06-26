@@ -4,5 +4,5 @@ Personal Homepage: [link]
 <br/>If you have interest to my activities, you can check my [personal homepage].
 
 
-[link]: https://opalescent-jacket-efc.notion.site/Han-Y-Park-9ab65f0adf9b4b38839157bfd95f9158
-[personal homepage]: https://opalescent-jacket-efc.notion.site/Han-Y-Park-9ab65f0adf9b4b38839157bfd95f9158
+[link]: https://hypark.net/
+[personal homepage]: https://hypark.net/
